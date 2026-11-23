@@ -1,0 +1,12 @@
+RICONCILIA POS — WINDOWS PORTATILE (64 bit)
+
+1. Estrai tutto lo ZIP in una cartella.
+2. Apri RiconciliaPOS.exe con doppio clic.
+3. Si apre il browser: carica i tuoi documenti e avvia il confronto.
+4. Per terminare, usa “Chiudi il programma” nella finestra Riconcilia POS.
+
+Non serve installare Python e non serve Internet per usare l’app.
+Mantieni l’eseguibile e la cartella _internal insieme.
+I documenti non vengono caricati online.
+Questo pacchetto non contiene documenti contabili o anagrafiche.
+L’eseguibile del prototipo non è firmato digitalmente.

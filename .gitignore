@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+.DS_Store
+*.pdf
+*.csv
+*.xlsx
+*.xls
+*.zip
